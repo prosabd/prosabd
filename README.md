@@ -44,29 +44,28 @@
     <td align="center">
       <p>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=python,cs,js,ts,java,php,ruby,arduino,md&perline=7" />
-            <!-- <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" /> -->
+            <img src="https://skillicons.dev/icons?i=python,cs,js,ts,java,php,ruby,arduino,md&perline=3" />
         </a>
       </p>
     </td>
     <td align="center">
       <p>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=symfony,laravel,react,angular,vite,tailwind,sass,express,next,nodejs,spring,django,dotnet,rails&perline=7" />
+            <img src="https://skillicons.dev/icons?i=symfony,laravel,react,angular,vite,tailwind,sass,express,next,nodejs,spring,django,dotnet,rails&perline=4" />
         </a>
       </p>
     </td>
     <td align="center">
       <p>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=mysql,mongodb,dynamodb,sqlite,firebase&perline=7" />
+            <img src="https://skillicons.dev/icons?i=mysql,mongodb,dynamodb,sqlite,firebase&perline=4" />
         </a>
       </p>
     </td>
     <td align="center">
       <p>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=docker,git,nginx,ubuntu,bash,apple,postman,aws,gitlab,npm,bun&perline=7" />
+            <img src="https://skillicons.dev/icons?i=docker,git,nginx,ubuntu,bash,apple,postman,aws,gitlab,npm,bun&perline=4" />
         </a>
       </p>
     </td>
@@ -89,7 +88,7 @@
 <br>
 
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "./github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
 <!-- <div align="center">
