@@ -58,7 +58,7 @@
     <td align="center">
       <p>
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=mysql,mongodb,dynamodb,sqlite,firebase&perline=4" />
+            <img src="https://skillicons.dev/icons?i=mysql,mongodb,dynamodb,sqlite,supabase,firebase&perline=4" />
         </a>
       </p>
     </td>
