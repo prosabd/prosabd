@@ -88,7 +88,7 @@
 <br>
 
 <p align = "center">
-	<img src = "https://github.com/prosabd/prosabd/blob/output/github-contribution-grid-snake-dark.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/prosabd/prosabd/blob/output/github-snake-dark.svg?" alt = "Snake Game"/>
 </p>
 
 <!-- <div align="center">
